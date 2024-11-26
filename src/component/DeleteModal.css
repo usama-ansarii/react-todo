@@ -1,0 +1,27 @@
+.delete-btn{
+    margin-top: 0px !important;
+    display: block;
+    padding: 7px 20px !important;
+    background-color: rgb(163, 11, 11);
+    color: white ;
+    border: none;
+}
+.delete-btn:hover{
+    background-color: rgb(199, 31, 31);
+}
+.delete-button{
+    /* background-color: rgb(145, 10, 10); */
+    color: white ;
+    border: none;
+    padding: 7px 10px;
+}
+.delete-button:hover{
+    background-color: rgb(145, 10, 10);
+
+}
+.close-btn{
+    /* background-color: skyblue; */
+    color: rgb(255, 255, 255) ;
+    border: none;
+    padding: 7px 10px;
+}
